@@ -8,7 +8,7 @@
   * [Our 3 Core Principles](#our-3-core-principles)
     + [We are not a family](#we-are-not-a-family)
     + [Prioritize your mental health](#prioritize-your-mental-health)
-    + [Transeo should be a place of growth for you](#transeo-should-be-a-place-of-growth-for-you)
+    + [Growing with Transeo matters](#growing-with-transeo-matters)
 - [Development](#development)
   * [Git](#git)
   * [Testing and CI](#testing-and-ci)
@@ -57,7 +57,7 @@ The tech world is plagued with statements like “come join our family.” Trans
 ### Prioritize your mental health
 This one is so important. We’re all human, and sometimes working in tech can push us to our extremes. Transeo is not like that. Be careful not to confuse this with a lazy work environment, though. Transeo’s development culture is fast-paced, innovative, exciting, and sometimes demands a lot - but never at the expense of your mental wellbeing. For more on this, check out required reading #2. 
 
-### Transeo should be a place of growth for you
+### Growing with Transeo matters
 We want everyone on our team to grow with us. We’re an early stage company - that’s not something we’re trying to hide. Transeo should be a place where you can further explore your own curiosities and feed your intellectual spirit while continuing to contribute to our mission. That being said, please let us know how we can help contribute to your personal and professional growth. 
 
 # Development
