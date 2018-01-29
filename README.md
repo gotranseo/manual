@@ -1,11 +1,10 @@
-# Table of Contents
-- [Welcome to Transeo?](#welcome-to-transeo-)
+- [Welcome to Transeo](#welcome-to-transeo)
 - [Motivation](#motivation)
 - [Connective Technology](#connective-technology)
 - [Culture](#culture)
   * [Required Reading](#required-reading)
-  * [3 main ideas we believe in:](#3-main-ideas-we-believe-in-)
-    + [We are a team, not a family](#we-are-a-team--not-a-family)
+  * [Our 3 Core Principles](#our-3-core-principles)
+    + [We are not a family](#we-are-not-a-family)
     + [Prioritize your mental health](#prioritize-your-mental-health)
     + [Transeo should be a place of growth for you](#transeo-should-be-a-place-of-growth-for-you)
 - [Development](#development)
@@ -17,7 +16,7 @@
   * [Vapor Slack](#vapor-slack)
   * [User Data and Privacy](#user-data-and-privacy)
 
-# Welcome to Transeo?
+# Welcome to Transeo
 Transeo is the best solution for tracking, verifying, and analyzing students’ impact on communities. We make hour verification, logging, and report generation easy for students and counselors.
 
 # Motivation
@@ -44,8 +43,8 @@ Here’s the bottom line - we’re working on a product that is meant to be succ
 * https://www.usenix.org/system/files/login/articles/login_winter17_09_looney.pdf
 * https://hbr.org/2014/04/creating-a-culture-of-quality
 
-## 3 main ideas we believe in:
-### We are a team, not a family
+## Our 3 Core Principles
+### We are not a family
 The tech world is plagued with statements like “come join our family.” Transeo is a team, not a family. This is incredibly important to us, as we believe it sets the theme for all of our work. This idea is taken from Reed Hastings and Netflix. This line from Netflix’s culture page (https://jobs.netflix.com/culture) sums it up nicely:
 
 > “We model ourselves on being a team, not a family. A family is about unconditional love, despite your siblings’ unusual behavior. A dream team is about pushing yourself to be the best teammate you can be, caring intensely about your teammates, and knowing that you may not be on the team forever.”
@@ -54,7 +53,7 @@ The tech world is plagued with statements like “come join our family.” Trans
 This one is so important. We’re all human, and sometimes working in tech can push us to our extremes. Transeo is not like that. Be careful not to confuse this with a lazy work environment, though. Transeo’s development culture is fast-paced, innovative, exciting, and sometimes demands a lot - but never at the expense of your mental wellbeing. For more on this, check out required reading #2. 
 
 ### Transeo should be a place of growth for you
-We want everyone on our team to grow with us. We’re an early stage company - that’s not something we’re trying to hide. Transeo should be a place where you can further explore your own curiosities and feed your intellectual spirit while continuing to contribute to our mission. 
+We want everyone on our team to grow with us. We’re an early stage company - that’s not something we’re trying to hide. Transeo should be a place where you can further explore your own curiosities and feed your intellectual spirit while continuing to contribute to our mission. That being said, please let us know how we can help contribute to your personal and professional growth. 
 
 # Development
 
@@ -66,6 +65,11 @@ When you want to contribute to the project, you should open up a new branch on t
 After completing the feature (and testing the feature!), open up a pull request on the main repo and request a PR review from someone else on the team. Be patient - reviews, when done right, take time. The first time through a review will almost always require changes to be made. You should prioritize making these changes over starting another feature branch. 
 
 When the PR has been approved, your code from the feature branch will be merged into `master` and the branch will be deleted. You should switch back to master, pull the merge into your local folder, and then start a new branch for the new feature. 
+
+## Testing and CI
+Testing is at the core of our beliefs, but we also believe that **there is a fine line between testing for safety and testing just to write tests.** When a PR is reviewed, the reviewer will take note of whether or not tests are included and if they're applicable in the situation. They might determine that the PR is fine without tests, or they might note that it can't be merged without testing. Either way, testing's purpose at Transeo is to ensure that we don't have regressions as we continue to update and innovate on our existing platform. That should be the guiding principle when writing tests, not the number of tests or whether each individual function has a test.
+
+Continuous integration helps us with our goal of no regressions. On the applicable repos, Circle CI will build and test each PR and block merging if building fails.
 
 ## Task Management 
 Projects of this magnitude with this many moving pieces often become very complex very fast. To try and combat that, we use Trello to manage projects. 
@@ -88,5 +92,3 @@ If you are working on the backend server (built using Vapor), you should join th
 
 ## User Data and Privacy 
 There should be no circumstance in which you attempt to access production databases from the command line or MySQL tools GUIs, unless you have explicit permission from Transeo management. These databases contain critical user data which we must respect from a privacy standpoint. If you’ve been authorized by a user to look into their account to diagnose an issue, use our internal administrator tools to do so - they are built with privacy in mind. 
-
-
