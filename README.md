@@ -1,3 +1,22 @@
+# Table of Contents
+- [Welcome to Transeo?](#welcome-to-transeo-)
+- [Motivation](#motivation)
+- [Connective Technology](#connective-technology)
+- [Culture](#culture)
+  * [Required Reading](#required-reading)
+  * [3 main ideas we believe in:](#3-main-ideas-we-believe-in-)
+    + [We are a team, not a family](#we-are-a-team--not-a-family)
+    + [Prioritize your mental health](#prioritize-your-mental-health)
+    + [Transeo should be a place of growth for you](#transeo-should-be-a-place-of-growth-for-you)
+- [Development](#development)
+  * [Git](#git)
+  * [Task Management](#task-management)
+  * [Architecture](#architecture)
+  * [Open Source](#open-source)
+  * [Swift](#swift)
+  * [Vapor Slack](#vapor-slack)
+  * [User Data and Privacy](#user-data-and-privacy)
+
 # Welcome to Transeo?
 Transeo is the best solution for tracking, verifying, and analyzing students’ impact on communities. We make hour verification, logging, and report generation easy for students and counselors.
 
