@@ -9,6 +9,7 @@
     + [Transeo should be a place of growth for you](#transeo-should-be-a-place-of-growth-for-you)
 - [Development](#development)
   * [Git](#git)
+  * [Testing and CI](#testing-and-ci)
   * [Task Management](#task-management)
   * [Architecture](#architecture)
   * [Open Source](#open-source)
