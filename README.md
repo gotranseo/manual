@@ -37,7 +37,7 @@ our mission, and our technology should exist to enable that mission not create i
 
 Finally, and perhaps the most important, is accessibility. We’re a mobile-first company meaning that every page we design is compatible with all mobile devices available on the market. The biggest struggle that we’ve seen while incorporating our software into school ecosystems is the wide range of socioeconomic ability. Some students have access to multiple different devices in which they can log their community service, while other students may only have an outdated smart device if that. We recognize that our software cannot be successful or impactful with making it accessible for every audience, so we make sure that it can run on every possible device, and as a result, for close to every student.
 
-Here’s the bottom line - we’re working on a product that is meant to be successful in the market. That’s basic business that we’re not trying to hide. However, as we start to explore where we fit into this sphere of ed-tech and innovation, we’re discovering that, perhaps, we represent something much larger. It’s our job, as a team, to work towards finding that “something” together. 
+Here’s the bottom line - we’re working on a product that is meant to be successful in the market. That’s basic business that we’re not trying to hide. However, as we start to explore where we fit into this sphere of ed-tech and innovation, we’re discovering that, perhaps, we represent something much larger. It’s our job, as a team, to work towards finding that “something” together. Welcome to Transeo!
 
 # Culture
 
