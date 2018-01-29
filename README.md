@@ -40,6 +40,8 @@ Here’s the bottom line - we’re working on a product that is meant to be succ
 # Culture
 
 ## Required Reading
+These articles are at the core of what we believe in. Please read them! 
+
 * https://www.inc.com/david-brown/32-percent-of-entrepreneurs-struggle-with-mental-health-prioritize-your-personal-health-in-2018.html
 * https://www.usenix.org/system/files/login/articles/login_winter17_09_looney.pdf
 * https://hbr.org/2014/04/creating-a-culture-of-quality
