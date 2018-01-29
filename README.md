@@ -1,6 +1,4 @@
-# Transeo Manual
-
-# What is Transeo?
+# Welcome to Transeo?
 Transeo is the best solution for tracking, verifying, and analyzing students’ impact on communities. We make hour verification, logging, and report generation easy for students and counselors.
 
 # Motivation
@@ -31,7 +29,7 @@ Here’s the bottom line - we’re working on a product that is meant to be succ
 ### We are a team, not a family
 The tech world is plagued with statements like “come join our family.” Transeo is a team, not a family. This is incredibly important to us, as we believe it sets the theme for all of our work. This idea is taken from Reed Hastings and Netflix. This line from Netflix’s culture page (https://jobs.netflix.com/culture) sums it up nicely:
 
->> “We model ourselves on being a team, not a family. A family is about unconditional love, despite your siblings’ unusual behavior. A dream team is about pushing yourself to be the best teammate you can be, caring intensely about your teammates, and knowing that you may not be on the team forever.”
+> “We model ourselves on being a team, not a family. A family is about unconditional love, despite your siblings’ unusual behavior. A dream team is about pushing yourself to be the best teammate you can be, caring intensely about your teammates, and knowing that you may not be on the team forever.”
 
 ### Prioritize your mental health
 This one is so important. We’re all human, and sometimes working in tech can push us to our extremes. Transeo is not like that. Be careful not to confuse this with a lazy work environment, though. Transeo’s development culture is fast-paced, innovative, exciting, and sometimes demands a lot - but never at the expense of your mental wellbeing. For more on this, check out required reading #2. 
