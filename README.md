@@ -72,6 +72,7 @@ These articles are at the core of what we believe in. Please read them!
 * https://www.inc.com/david-brown/32-percent-of-entrepreneurs-struggle-with-mental-health-prioritize-your-personal-health-in-2018.html
 * https://www.usenix.org/system/files/login/articles/login_winter17_09_looney.pdf
 * https://hbr.org/2014/04/creating-a-culture-of-quality
+* https://ashfurrow.com/blog/building-compassionate-software/
 
 ## Our 3 Core Principles
 ### We are not a family
@@ -80,7 +81,7 @@ The tech world is plagued with statements like “come join our family.” Trans
 > “We model ourselves on being a team, not a family. A family is about unconditional love, despite your siblings’ unusual behavior. A dream team is about pushing yourself to be the best teammate you can be, caring intensely about your teammates, and knowing that you may not be on the team forever.”
 
 ### Prioritize your mental health
-This one is so important. We’re all human, and sometimes working in tech can push us to our extremes. Transeo is not like that. Be careful not to confuse this with a lazy work environment, though. Transeo’s development culture is fast-paced, innovative, exciting, and sometimes demands a lot - but never at the expense of your mental wellbeing. For more on this, check out required reading #2. 
+This one is so important. We’re all human, and sometimes working in tech can push us to our extremes. Transeo is not like that; we believe in taking time to reflect and breathe. Be careful not to confuse this with a laid back or easy work environment, though. Transeo’s development culture is fast-paced, innovative, exciting, and sometimes demands a lot - but never at the expense of your mental wellbeing. For more on this, check out required reading number 1 and 2. 
 
 ### Growth matters
 We want everyone on our team to grow with us. We’re an early stage company - that’s not something we’re trying to hide. Transeo should be a place where you can further explore your own curiosities and feed your intellectual spirit while continuing to contribute to our mission. That being said, please let us know how we can help contribute to your personal and professional growth. 
