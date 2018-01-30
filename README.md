@@ -11,6 +11,7 @@
     + [We are not a family](#we-are-not-a-family)
     + [Prioritize your mental health](#prioritize-your-mental-health)
     + [Growth matters](#growth-matters)
+  * [Intention](#intention)
 - [Workflow](#workflow)
   * [Sprints](#sprints)
   * [Standups](#standups)
@@ -83,6 +84,13 @@ This one is so important. We’re all human, and sometimes working in tech can p
 
 ### Growth matters
 We want everyone on our team to grow with us. We’re an early stage company - that’s not something we’re trying to hide. Transeo should be a place where you can further explore your own curiosities and feed your intellectual spirit while continuing to contribute to our mission. That being said, please let us know how we can help contribute to your personal and professional growth. 
+
+## Intention
+Our entire marketing, sales, and product strategy is based around one simple concept: intention. We believe that every action that we take should be calculated and thought over for the maximum effect. This means that as we continue to scale up to schools across the country, every business and tech decision that we make needs to be intentional and in line with our end mission. 
+
+Our philosophy is fairly different from how some companies choose to work because many fail to consider how their every day actions fit into their mission and end goals. This way of thinking applies to everything we do, from the lines of code we write to the schools that we try to add to our platform. 
+
+It sounds intense, and sometimes it can be. This type of thinking requires a lot of time and consideration. In the end, though, it pays off because it gives us the opportunity to think about Transeo's social responsibility, and how our actions contribute to that responsibility. In short, acting intentionally helps us create in a much more rewarding way.
 
 # Workflow
 
