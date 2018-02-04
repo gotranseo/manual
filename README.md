@@ -8,7 +8,7 @@
 - [Culture](#culture)
   * [Required Reading](#required-reading)
   * [Our 3 Core Principles](#our-3-core-principles)
-    + [We are not a family](#we-are-not-a-family)
+    + [Work more like a team than a family](#work-more-like-a-team-than-a-family)
     + [Prioritize your mental health](#prioritize-your-mental-health)
     + [Growth matters](#growth-matters)
   * [Intention](#intention)
@@ -30,7 +30,7 @@
 Transeo is the best solution for tracking, verifying, and analyzing students’ impact on communities. We make hour verification, logging, and report generation easy for students and counselors.
 
 # Motivation
-This document exists as the backbone of development culture at Transeo. Everything that we believe in as it relates to coding, product creation, and culture is in this repo. In short, this is a guide on how to work and grow with Transeo.
+This is a living document that serves as the backbone of development culture at Transeo. Everything that we believe in as it relates to coding, product creation, and culture is in this repo. In short, this is a guide on how to work and grow with Transeo.
 
 # Connective Technology 
 One of our motivating principles is creating technology that is connective in nature. To us, this means that our products are innovative, intuitive, and most importantly, accessible. 
@@ -75,8 +75,12 @@ These articles are at the core of what we believe in. Please read them!
 * https://ashfurrow.com/blog/building-compassionate-software/
 
 ## Our 3 Core Principles
-### We are not a family
-The tech world is plagued with statements like “come join our family.” Transeo is a team, not a family. This is incredibly important to us, as we believe it sets the theme for all of our work. This idea is taken from Reed Hastings and Netflix. This line from Netflix’s culture page (https://jobs.netflix.com/culture) sums it up nicely:
+### Work more like a team than a family
+The tech world is plagued with the statement, “come join our family,” which is often used to keep employees working endless hours. We believe in working together as a team, not as a family. This idea manifests in our belief that we don't need to work long hours to make a great product, or abandon the outside world to keep the company alive. Instead, Transeo is all about balance: balance in work, balance in life, and balance in our company. 
+
+We want you to feel a bond with Transeo's mission, and sometimes, that bond can create a family-like vibe. However, this feeling should give you professional meaning and purpose, not force you to work long hours or lose sight of everything else.
+
+This line from Netflix’s culture page (https://jobs.netflix.com/culture) sums it up nicely:
 
 > “We model ourselves on being a team, not a family. A family is about unconditional love, despite your siblings’ unusual behavior. A dream team is about pushing yourself to be the best teammate you can be, caring intensely about your teammates, and knowing that you may not be on the team forever.”
 
