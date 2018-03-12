@@ -110,7 +110,7 @@ Here's the bottom line - although we'd love to pretend that sprints work perfect
 Standups happen every day in our Slack channel. Doing standups asynchronously not only helps with us working remotely, it also allows the standup to be an activity that provides value, rather than a requirement. Take 5 minutes each day to really reflect on what you did the day prior, and what lessons you are going to take into today. We'll all be better for it.
 
 ## Retros
-Retrospectives, or "retros" for short, happen at the end of the day on Fridays at the end of a 2 week sprint. This is an opportunity for all of Transeo development to get together and share what went well, what went wrong, and what we can do to improve going forward. This helps focus us for the future while also acknowledging the lessons we learned from the previous sprint, with the goal being to make development more efficient and productive going forward. 
+Retrospectives, or "retros" for short, happen at the end of the day on Fridays at the end of a 2 week sprint. This is an opportunity for all of Transeo development to get together and share what went well, what went wrong, and what we can do to improve going forward. This helps focus us for the future while also acknowledging the lessons we learned from the previous sprint, with the goal being to make development more efficient and productive going forward.
 
 # Development
 
@@ -129,11 +129,11 @@ Testing is at the core of our beliefs, but we also believe that **there is a fin
 Continuous integration helps us with our goal of no regressions. On the applicable repos, Circle CI will build and test each PR and block merging if building fails.
 
 ## Task Management 
-Projects of this magnitude with this many moving pieces often become very complex very fast. To try and combat that, we use Trello to manage projects. 
+Projects of this magnitude with this many moving pieces often become very complex very fast. To try and combat that, we use Asana to manage projects. 
 
-One of the downfalls of task management as a whole is determining how detailed each task should be. Creating a card in Trello is useless for our purposes if the card content is as broad as “Do the student portal.” Your job as a responsible team member is to try and find the perfect in-between. Find a system that works for you, and then see if it works with the rest of the project’s style, too. 
+One of the downfalls of task management as a whole is determining how detailed each task should be. Creating a card in Asana is useless for our purposes if the card content is as broad as “Do the student portal.” Your job as a responsible team member is to try and find the perfect in-between. Find a system that works for you, and then see if it works with the rest of the project’s style, too. 
 
-Card organization in Trello is also very important. Cards should be moved from the appropriate lists at the appropriate times. For example, don’t move a card from `Finished` to `Deployed` if it’s still sitting in a PR. Tagging cards also helps with this as it can provide some broader organization within each list. 
+Card organization in Asana is also very important. Cards should be moved from the appropriate lists at the appropriate times. For example, don’t move a card from `Finished` to `Deployed` if it’s still sitting in a PR. Tagging cards also helps with this as it can provide some broader organization within each list. 
 
 ## Architecture 
 Transeo’s mobile and server-side swift apps use MVC as the default. However, if there’s a better framework that you think works for the project you should suggest it **when the project is beginning.** It is exhaustingly time-consuming and expensive to switch app architectures in the middle of a project. 
