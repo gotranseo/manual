@@ -62,7 +62,7 @@ Here’s the bottom line - we’re working on a product that is meant to be succ
 * Support
     * Transeo wants to support you in as many ways as possible. If you need something, whether it's time off, code help, or support in any other way, please just reach out and ask.
 * Flexibility
-    * We are understanding and flexible at Transeo. Things come up, calendar change, more important stuff arises, we get it. We'll work with you to make sure that you are comfortable and at your best when it comes to work. 
+    * We are understanding and flexible at Transeo. Things come up, calendars change, more important stuff arises, we get it. We'll work with you to make sure that you are comfortable and at your best when it comes to work. 
 
 # Culture
 
@@ -100,7 +100,7 @@ It sounds intense, and sometimes it can be. This type of thinking requires a lot
 # Workflow
 
 ## Sprints
-We work in 2 week sprints meaning that at the beginning of each 2 week cycle we define the work that will get completed over the next two weeks. There's a few main benefits to this method, the most importance of which is avoiding [scope creep](https://en.wikipedia.org/wiki/Scope_creep). This helps us focus on what's important for those two weeks, and gives us a hard deadline to work towards in terms of deliverables.
+We work in 2 week sprints meaning that at the beginning of each 2 week cycle we define the work that will get completed over the next two weeks. There are a few main benefits to this method, the most importance of which is avoiding [scope creep](https://en.wikipedia.org/wiki/Scope_creep). This helps us focus on what's important for those two weeks, and gives us a hard deadline to work towards in terms of deliverables.
 
 Sprints look different for different products, so the most important thing is to make sure that you are coordinating with your team around scope selection and ensuring that deadlines can be met on all of the items in the sprint. 
 
@@ -136,7 +136,7 @@ One of the downfalls of task management as a whole is determining how detailed e
 Card organization in Asana is also very important. Cards should be moved from the appropriate lists at the appropriate times. For example, don’t move a card from `Finished` to `Deployed` if it’s still sitting in a PR. Tagging cards also helps with this as it can provide some broader organization within each list. 
 
 ## Architecture 
-Transeo’s mobile and server-side swift apps use MVC as the default. However, if there’s a better framework that you think works for the project you should suggest it **when the project is beginning.** It is exhaustingly time-consuming and expensive to switch app architectures in the middle of a project. 
+Transeo’s mobile and server-side swift apps use MVC as the default. However, if there is a better framework that you think works for the project you should suggest it **when the project is beginning.** It is exhaustingly time-consuming and expensive to switch app architectures in the middle of a project. 
 
 ## Open Source
 When we create a tool, if it does not contain proprietary information it should be open sourced. This is the default for us - it does not mean that private repos are off the table, but if other developers could benefit from the library, we should make it public. 
@@ -145,7 +145,7 @@ When we create a tool, if it does not contain proprietary information it should 
 Our 2 biggest projects, the Transeo backend, and the Transeo iOS app, are built using Apple’s Swift. You should adhere to Ray Wenderlich’s style guide when coding, found here: https://github.com/raywenderlich/swift-style-guide.  
 
 ## Vapor Slack
-If you are working on the backend server (built using Vapor), you should join the Slack community at http://vapor.team. There is a wealth of knowledge within that channel, and everyone is willing to help.
+If you are working on the backend server (built using Vapor), you should join the Discord community at http://vapor.team. There is a wealth of knowledge within that channel, and everyone is willing to help.
 
 ## User Data and Privacy 
 There should be no circumstance in which you attempt to access production databases from the command line or MySQL tools GUIs, unless you have explicit permission from Transeo management. These databases contain critical user data which we must respect from a privacy standpoint. If you’ve been authorized by a user to look into their account to diagnose an issue, use our internal administrator tools to do so - they are built with privacy in mind. 
