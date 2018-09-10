@@ -21,17 +21,11 @@ One of the downfalls of task management as a whole is determining how detailed e
 
 Card organization in Asana is also very important. Cards should be moved from the appropriate lists at the appropriate times. For example, don’t move a card from `Finished` to `Deployed` if it’s still sitting in a PR. Tagging cards also helps with this as it can provide some broader organization within each list. 
 
-## Architecture 
-Transeo’s mobile and server-side swift apps use MVC as the default. However, if there is a better framework that you think works for the project you should suggest it **when the project is beginning.** It is exhaustingly time-consuming and expensive to switch app architectures in the middle of a project. 
-
 ## Open Source
 When we create a tool, if it does not contain proprietary information it should be open sourced. This is the default for us - it does not mean that private repos are off the table, but if other developers could benefit from the library, we should make it public. 
 
-## Swift
-Our 2 biggest projects, the Transeo backend, and the Transeo iOS app, are built using Apple’s Swift. You should adhere to Ray Wenderlich’s style guide when coding, found here: https://github.com/raywenderlich/swift-style-guide.  
-
-## Vapor Slack
-If you are working on the backend server (built using Vapor), you should join the Discord community at http://vapor.team. There is a wealth of knowledge within that channel, and everyone is willing to help.
+## Platform
+Our biggest project to date, the Transeo Community backend, is built using Apple’s Swift. The frontend is server-side rendered. New products (anything from full consumer-facing products to internal dashboards) that are built after August 2018 should use React on the frontend and Swift (Vapor) as the backend.
 
 ## User Data and Privacy 
 There should be no circumstance in which you attempt to access production databases from the command line or MySQL tools GUIs, unless you have explicit permission from Transeo management. These databases contain critical user data which we must respect from a privacy standpoint. If you’ve been authorized by a user to look into their account to diagnose an issue, use our internal administrator tools to do so - they are built with privacy in mind. 
