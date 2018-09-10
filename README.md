@@ -10,7 +10,7 @@
   * [Our 3 Core Principles](#our-3-core-principles)
     + [Work more like a team than a family](#work-more-like-a-team-than-a-family)
     + [Prioritize your mental health](#prioritize-your-mental-health)
-    + [Growth matters](#growth-matters)
+    + [Be a lifelong learner](#be-a-lifelong-learner)
   * [Intention](#intention)
 - [Workflow](#workflow)
   * [Sprints](#sprints)
@@ -87,8 +87,8 @@ This line from Netflix’s culture page (https://jobs.netflix.com/culture) sums 
 ### Prioritize your mental health
 This one is so important. We’re all human, and sometimes working in tech can push us to our extremes. Transeo is not like that; we believe in taking time to reflect and breathe. Be careful not to confuse this with a laid back or easy work environment, though. Transeo’s development culture is fast-paced, innovative, exciting, and sometimes demands a lot - but never at the expense of your mental wellbeing. For more on this, check out required reading number 1 and 2. 
 
-### Growth matters
-We want everyone on our team to grow with us. We’re an early stage company - that’s not something we’re trying to hide. Transeo should be a place where you can further explore your own curiosities and feed your intellectual spirit while continuing to contribute to our mission. That being said, please let us know how we can help contribute to your personal and professional growth. 
+### Be a lifelong learner
+Transeo is an education company - at the end of the day, we exist to help students across the country realize and act upon their potential. Our technology is not supposed to tell them what their future should look like. Instead, we're here to illuminate the path so that they can make more intelligent, well-informed decisions. We believe that education is a fundamental human right, and that everyone in the world should have the opportunity to learn. As such, a critical part of our culture is utilizing our position of privilege to learn as much as we can. We do this so that we can build better products and better solutions to help others continue their own learning, and their own exploration. We expect that all Transeo team members fearlessly pursue the promise of new knowledge with the understanding that it's not about _how much_ we can learn, but rather, it's about _why_ we choose to continue learning in the first place.
 
 ## Intention
 Our entire marketing, sales, and product strategy is based around one simple concept: intention. We believe that every action that we take should be calculated and thought over for the maximum effect. This means that as we continue to scale up to schools across the country, every business and tech decision that we make needs to be intentional and in line with our end mission. 
