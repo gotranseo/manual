@@ -3,6 +3,11 @@ Culture is really important to us - we say that not as a recruiting technique or
 
 Sometimes it feels like companies have forgotten that, when you go deep enough, every piece of technology that we build is about people. We want you to have lives and passions outside of this company. We're really grateful that our team feels strongly about our mission and our purpose, but remind yourself that it's ok to take a step back sometimes. We'll all be better for it. 
 
+# Corporate Goal and Mission
+Corporate Goal: To create a suite of solutions that is rich in value and has high market penetration.
+
+Mission: To eliminate paper-based inefficiencies in the educational sector.
+
 ## Required Reading
 These articles are at the core of what we believe in. Please read them! 
 
